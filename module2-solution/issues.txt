@@ -1,0 +1,5 @@
+Issues regarding this Project.
+I would appreciate it if I can get some comments on how to solve these issues.
+
+1. Even after no overlappings in the @media queries, there exists an issue. At 991px, no styles are applied at all. 
+2. I do not know how to set the height of the divs to be constant. 
